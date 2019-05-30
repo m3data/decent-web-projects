@@ -1,4 +1,4 @@
-### List of projects, companies and organisations working towards digital self-sovereignty
+### List of projects, companies and organisations working towards a more trustworthy data sharing ecosystem
 
 - [SAFE NETWORK](https://safenetwork.tech/)
 - [Dat Project](https://datproject.org/)
